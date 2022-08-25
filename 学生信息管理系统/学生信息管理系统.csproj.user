@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAddClazz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddStu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDelClazz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDelCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDelGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDelStu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFindClazz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFindCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFindGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFindStu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModClazz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmModStu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

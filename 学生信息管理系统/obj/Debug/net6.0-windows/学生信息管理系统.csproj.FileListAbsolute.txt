@@ -1,0 +1,135 @@
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.exe
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.deps.json
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.runtimeconfig.json
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.pdb
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.AssemblyReference.cache
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddClazz.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddCourse.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddGrade.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddStu.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelClazz.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelCourse.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelGrade.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelStu.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindClazz.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindCourse.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindGrade.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindStu.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmLogin.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmMain.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModClazz.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModCourse.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModGrade.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModStu.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmRegister.resources
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.GenerateResource.cache
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.AssemblyInfoInputs.cache
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.AssemblyInfo.cs
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.CoreCompileInputs.cache
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.CopyComplete
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\refint\学生信息管理系统.dll
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.pdb
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.genruntimeconfig.cache
+C:\Users\wowo\Desktop\学生管理系统\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\ref\学生信息管理系统.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.exe
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.deps.json
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.runtimeconfig.json
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.pdb
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.AssemblyReference.cache
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddClazz.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddCourse.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddGrade.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddStu.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelClazz.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelCourse.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelGrade.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelStu.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindClazz.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindCourse.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindGrade.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindStu.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmLogin.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmMain.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModClazz.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModCourse.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModGrade.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModStu.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmRegister.resources
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.GenerateResource.cache
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.AssemblyInfoInputs.cache
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.AssemblyInfo.cs
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.CoreCompileInputs.cache
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.CopyComplete
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\refint\学生信息管理系统.dll
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.pdb
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.genruntimeconfig.cache
+C:\Users\wowo\Desktop\面向对象程序设计209001030 李杰\系统源码\学生信息管理系统\学生信息管理系统\obj\Debug\net6.0-windows\ref\学生信息管理系统.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.AssemblyReference.cache
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddClazz.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddCourse.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddGrade.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmAddStu.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelClazz.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelCourse.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelGrade.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmDelStu.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindClazz.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindCourse.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindGrade.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmFindStu.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmLogin.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmMain.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModClazz.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModCourse.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModGrade.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmModStu.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.FrmRegister.resources
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.GenerateResource.cache
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.AssemblyInfoInputs.cache
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.AssemblyInfo.cs
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.CoreCompileInputs.cache
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\refint\学生信息管理系统.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.pdb
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.exe
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.deps.json
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.runtimeconfig.json
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\学生信息管理系统.pdb
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.csproj.CopyComplete
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\学生信息管理系统.genruntimeconfig.cache
+C:\Users\wowo\Desktop\209001030 -李杰-其他资料\系统源码\学生信息管理系统\obj\Debug\net6.0-windows\ref\学生信息管理系统.dll

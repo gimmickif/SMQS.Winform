@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wowo\\Desktop\\209001030 -李杰-其他资料\\系统源码\\学生信息管理系统\\学生信息管理系统.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wowo\\Desktop\\209001030 -李杰-其他资料\\系统源码\\学生信息管理系统\\学生信息管理系统.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wowo\\Desktop\\209001030 -李杰-其他资料\\系统源码\\学生信息管理系统\\学生信息管理系统.csproj",
+        "projectName": "学生信息管理系统",
+        "projectPath": "C:\\Users\\wowo\\Desktop\\209001030 -李杰-其他资料\\系统源码\\学生信息管理系统\\学生信息管理系统.csproj",
+        "packagesPath": "C:\\Users\\wowo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wowo\\Desktop\\209001030 -李杰-其他资料\\系统源码\\学生信息管理系统\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wowo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
