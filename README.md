@@ -1,4 +1,4 @@
-# WinformLab
+# SMQS.Winform
 # 基于C#winform的学生成绩查询系统
 ## 功能
 - 用户登陆注册
